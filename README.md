@@ -10,7 +10,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+<!DOCTYPE html>
+<html>
+<body>
+<h1>这是我使用github pages搭建的个人站点。</h1>
+</body>
+</html>
 # Header 1
 ## Header 2
 ### Header 3
